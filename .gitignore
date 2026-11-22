@@ -1,0 +1,15 @@
+# Build outputs
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
+
+# IDE-local files
+*.dev
+*.layout
+.vscode/
+.idea/
+
+# Course documents and rubric are not part of the application source
+*.pdf
